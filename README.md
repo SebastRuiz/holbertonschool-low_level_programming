@@ -1,1 +1,1 @@
-# C is fun
+# Hi, this is my first project in C
