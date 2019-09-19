@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main (void)
+{
+  int numero = 4;
+  int numero2 = 6;
+  int resultado = numero + numero2;
+
+  printf ("%d",resultado);
+  return (resultado)
+}
