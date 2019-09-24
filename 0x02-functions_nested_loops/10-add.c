@@ -1,9 +1,9 @@
 #include "holberton.h"
-
 /**
- * main - check the code for Holberton School students.
- *
- * Return: Always 0.
+ * add - Adds two integers and returns the result.
+ * @x: The character to print.
+ * @y: The character to print.
+ * Return: 0.
  */
 int add(int x, int y)
 {
